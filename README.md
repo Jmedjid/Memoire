@@ -1,4 +1,4 @@
 # Memoire M2
-Sujet : La technologie dans le cadre de l'entraînement d'un coureur de haut niveau
+Sujet : La technologie au service de la performance d'un athlète de haut niveau
 
-Problématique : Comment les outils informatiques utilisables dans le quotidien d'un athlète de haut niveau pratiquant le 400m peuvent-ils améliorer son niveau de performance ?
+Problématique : La technologie permet-elle de rendre visible la partie invisible de la performance ?
